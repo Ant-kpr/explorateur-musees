@@ -4,7 +4,7 @@
 
 ## What it does
 
-<!-- One or two sentences: what a visitor can do with this page. -->
+you can look for a specific museum
 
 ## Data source and licence
 
